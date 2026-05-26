@@ -103,7 +103,7 @@ CLASSES    = [0, 1, 2, ...]  # COCO class IDs to detect
 
 ## Project structure
 adas-detection/
-│
+
 ├── detect.py            # main detection script
 ├── verify_setup.py      # verifies installation
 ├── requirements.txt     # dependencies
