@@ -8,7 +8,7 @@ component of Advanced Driver Assistance Systems.
 
 ## Demo
 
-![Demo](output.gif)
+![Demo](output_image.png)
 
 ---
 
